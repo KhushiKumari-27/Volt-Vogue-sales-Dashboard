@@ -1,0 +1,201 @@
+Order_ID,Date,Customer_ID,Customer_Age,Gender,Location,Product_Category,Product_Name,Quantity,Unit_Price,Discount_Applied,Payment_Method,Customer_Rating
+VV-1006,08-01-2025,CUST-142,20,Female,South,Apparel,Winter Puffer Jacket,3,119.99,0.1,UPI,5
+VV-1163,08-01-2025,CUST-137,65,Male,South,Electronics,Wireless Headphones,3,79.99,0.3,Credit Card,4
+VV-1151,10-01-2025,CUST-130,54,Female,West,Electronics,Noise Cancelling Earbuds,1,99.99,0.1,Crypto,5
+VV-1062,22-01-2025,CUST-136,52,Male,North,Electronics,Noise Cancelling Earbuds,3,99.99,0.2,Credit Card,3
+VV-1130,27-01-2025,CUST-155,25,Female,South,Apparel,Running Joggers,5,39.99,0.3,UPI,3
+VV-1039,28-01-2025,CUST-139,54,Male,North,Electronics,Portable SSD,4,109.99,0.3,PayPal,3
+VV-1021,01-02-2025,CUST-119,47,Female,East,Electronics,Mechanical Keyboard,1,89.99,0,PayPal,5
+VV-1194,01-02-2025,CUST-128,39,Female,West,Electronics,Mechanical Keyboard,1,89.99,0.1,PayPal,3
+VV-1162,02-02-2025,CUST-129,60,Male,West,Home & Living,Smart Coffee Mug,2,34.99,0,Credit Card,4
+VV-1080,04-02-2025,CUST-142,33,Female,North,Apparel,Knit Sweater,5,54.99,0.2,PayPal,5
+VV-1147,12-02-2025,CUST-116,46,Female,West,Electronics,USB-C Hub,3,39.99,0.2,UPI,2
+VV-1177,16-02-2025,CUST-137,45,Female,South,Home & Living,LED Desk Lamp,3,42.99,0.25,UPI,4
+VV-1108,17-02-2025,CUST-110,52,Female,West,Electronics,Gaming Mouse,2,49.99,0.1,UPI,5
+VV-1107,21-02-2025,CUST-110,60,Male,South,Electronics,Smartwatch,2,129.99,0,UPI,5
+VV-1084,22-02-2025,CUST-127,19,Male,South,Electronics,Gaming Mouse,1,49.99,0,UPI,5
+VV-1123,22-02-2025,CUST-105,58,Male,East,Home & Living,Ergonomic Cushion,2,29.99,0,UPI,4
+VV-1031,24-02-2025,CUST-112,37,Female,East,Electronics,USB-C Hub,2,39.99,0,PayPal,3
+VV-1035,25-02-2025,CUST-143,45,Male,West,Apparel,Cargo Pants,3,49.99,0,Credit Card,2
+VV-1173,27-02-2025,CUST-141,60,Male,North,Electronics,Mechanical Keyboard,1,89.99,0,Credit Card,4
+VV-1193,27-02-2025,CUST-105,64,Male,South,Electronics,Mechanical Keyboard,1,89.99,0,Credit Card,4
+VV-1053,28-02-2025,CUST-132,18,Female,East,Apparel,Graphic T-Shirt,3,24.99,0,PayPal,4
+VV-1068,28-02-2025,CUST-131,46,Male,West,Electronics,Smartwatch,3,129.99,0.2,PayPal,4
+VV-1094,06-03-2025,CUST-149,57,Male,North,Electronics,Portable SSD,1,109.99,0.1,Credit Card,3
+VV-1165,21-03-2025,CUST-149,61,Male,East,Apparel,Knit Sweater,1,54.99,0,PayPal,5
+VV-1182,24-03-2025,CUST-106,42,Male,North,Electronics,USB-C Hub,2,39.99,0.2,PayPal,3
+VV-1098,26-03-2025,CUST-134,57,Male,West,Electronics,Portable SSD,2,109.99,0,PayPal,4
+VV-1100,04-04-2025,CUST-149,27,Male,North,Electronics,Bluetooth Speaker,4,59.99,0.2,Credit Card,5
+VV-1017,06-04-2025,CUST-119,44,Female,North,Apparel,Oversized Hoodie,1,44.99,0,Credit Card,5
+VV-1043,07-04-2025,CUST-139,19,Female,South,Apparel,Denim Jacket,2,69.99,0,Crypto,4
+VV-1028,08-04-2025,CUST-126,19,Female,South,Apparel,Denim Jacket,2,69.99,0,PayPal,5
+VV-1030,09-04-2025,CUST-122,20,Female,North,Home & Living,Air Purifier,2,149.99,0,UPI,4
+VV-1115,10-04-2025,CUST-137,25,Male,South,Electronics,Noise Cancelling Earbuds,4,99.99,0.25,UPI,3
+VV-1184,19-04-2025,CUST-118,51,Male,South,Electronics,USB-C Hub,1,39.99,0,Credit Card,3
+VV-1148,21-04-2025,CUST-160,32,Male,South,Apparel,Denim Jacket,4,69.99,0,UPI,4
+VV-1111,26-04-2025,CUST-149,56,Male,South,Electronics,Gaming Mouse,3,49.99,0,Credit Card,5
+VV-1195,26-04-2025,CUST-146,43,Female,North,Apparel,Knit Sweater,1,54.99,0.1,Credit Card,4
+VV-1011,08-05-2025,CUST-136,21,Male,East,Apparel,Cargo Pants,4,49.99,0.3,Credit Card,4
+VV-1096,10-05-2025,CUST-154,38,Male,East,Apparel,Graphic T-Shirt,4,24.99,0.2,PayPal,3
+VV-1069,11-05-2025,CUST-140,57,Female,East,Home & Living,Insulated Water Bottle,3,27.99,0.1,UPI,3
+VV-1009,25-05-2025,CUST-159,59,Male,South,Electronics,Wireless Headphones,3,79.99,0.25,UPI,3
+VV-1029,01-06-2025,CUST-133,25,Female,South,Apparel,Casual Sneakers,1,74.99,0.1,UPI,4
+VV-1048,01-06-2025,CUST-118,49,Female,North,Electronics,USB-C Hub,4,39.99,0.25,Credit Card,3
+VV-1078,03-06-2025,CUST-107,43,Male,East,Apparel,Casual Sneakers,5,74.99,0.25,PayPal,2
+VV-1140,06-06-2025,CUST-137,43,Non-binary,West,Electronics,Gaming Mouse,1,49.99,0.1,PayPal,4
+VV-1152,06-06-2025,CUST-112,64,Male,South,Electronics,Gaming Mouse,2,49.99,0.1,PayPal,4
+VV-1113,08-06-2025,CUST-109,19,Male,North,Electronics,Gaming Mouse,1,49.99,0,Credit Card,5
+VV-1164,08-06-2025,CUST-157,37,Female,West,Apparel,Knit Sweater,4,54.99,0,Credit Card,3
+VV-1154,10-06-2025,CUST-126,55,Female,North,Electronics,Mechanical Keyboard,1,89.99,0,Credit Card,4
+VV-1187,10-06-2025,CUST-113,65,Female,East,Electronics,Mechanical Keyboard,2,89.99,0,Credit Card,3
+VV-1141,11-06-2025,CUST-115,61,Male,South,Electronics,Wireless Headphones,2,79.99,0,Credit Card,5
+VV-1061,14-06-2025,CUST-133,62,Female,East,Electronics,Wireless Headphones,1,79.99,0,Credit Card,5
+VV-1186,15-06-2025,CUST-131,39,Male,West,Apparel,Graphic T-Shirt,2,24.99,0.1,Credit Card,4
+VV-1197,20-06-2025,CUST-106,42,Female,East,Electronics,Noise Cancelling Earbuds,4,99.99,0.25,PayPal,3
+VV-1091,28-06-2025,CUST-102,53,Male,West,Electronics,Portable SSD,5,109.99,0.3,PayPal,2
+VV-1042,09-07-2025,CUST-103,23,Male,West,Apparel,Winter Puffer Jacket,4,119.99,0,UPI,4
+VV-1055,15-07-2025,CUST-143,46,Male,East,Apparel,Oversized Hoodie,5,44.99,0.2,PayPal,4
+VV-1088,15-07-2025,CUST-110,32,Male,West,Electronics,Bluetooth Speaker,1,59.99,0,Credit Card,2
+VV-1189,22-07-2025,CUST-126,49,Male,South,Electronics,Smartwatch,2,129.99,0.2,UPI,4
+VV-1059,24-07-2025,CUST-131,38,Female,North,Electronics,Wireless Headphones,3,79.99,0.2,Crypto,5
+VV-1027,26-07-2025,CUST-123,60,Female,West,Electronics,Bluetooth Speaker,1,59.99,0,Credit Card,4
+VV-1175,26-07-2025,CUST-126,29,Male,North,Electronics,Mechanical Keyboard,1,89.99,0,PayPal,4
+VV-1153,27-07-2025,CUST-129,45,Female,North,Apparel,Graphic T-Shirt,3,24.99,0.1,Crypto,5
+VV-1090,28-07-2025,CUST-115,64,Male,South,Electronics,Bluetooth Speaker,2,59.99,0,Credit Card,4
+VV-1150,29-07-2025,CUST-119,29,Female,North,Home & Living,Aroma Diffuser,5,36.99,0.2,Credit Card,3
+VV-1119,02-08-2025,CUST-149,36,Male,West,Home & Living,Weighted Blanket,4,89.99,0.1,UPI,3
+VV-1004,03-08-2025,CUST-154,20,Female,West,Home & Living,Air Purifier,1,149.99,0,Credit Card,3
+VV-1089,03-08-2025,CUST-108,23,Female,North,Apparel,Winter Puffer Jacket,2,119.99,0.1,Credit Card,4
+VV-1178,03-08-2025,CUST-114,61,Female,West,Electronics,Wireless Headphones,2,79.99,0.25,Credit Card,2
+VV-1185,03-08-2025,CUST-125,41,Male,South,Apparel,Running Joggers,1,39.99,0,PayPal,3
+VV-1095,04-08-2025,CUST-114,36,Female,East,Apparel,Casual Sneakers,2,74.99,0,Credit Card,5
+VV-1170,04-08-2025,CUST-148,64,Male,West,Apparel,Winter Puffer Jacket,3,119.99,0,Credit Card,3
+VV-1139,05-08-2025,CUST-133,30,Female,South,Electronics,Wireless Headphones,1,79.99,0,Credit Card,3
+VV-1172,06-08-2025,CUST-104,64,Female,North,Home & Living,Aroma Diffuser,5,36.99,0.25,Credit Card,5
+VV-1005,07-08-2025,CUST-145,60,Male,West,Electronics,Smartwatch,1,129.99,0,Credit Card,3
+VV-1049,07-08-2025,CUST-115,23,Male,South,Apparel,Running Joggers,1,39.99,0.1,Crypto,4
+VV-1126,07-08-2025,CUST-121,25,Male,North,Apparel,Cargo Pants,5,49.99,0.25,PayPal,3
+VV-1007,08-08-2025,CUST-156,65,Female,South,Electronics,Portable SSD,3,109.99,0.3,Credit Card,2
+VV-1013,08-08-2025,CUST-122,22,Male,East,Apparel,Running Joggers,2,39.99,0.2,UPI,4
+VV-1040,08-08-2025,CUST-140,35,Male,North,Electronics,Portable SSD,5,109.99,0.25,UPI,3
+VV-1161,08-08-2025,CUST-160,18,Female,West,Apparel,Knit Sweater,3,54.99,0.25,Crypto,2
+VV-1166,08-08-2025,CUST-109,37,Female,North,Apparel,Oversized Hoodie,4,44.99,0.3,PayPal,4
+VV-1198,08-08-2025,CUST-112,37,Male,South,Electronics,Portable SSD,1,109.99,0,PayPal,5
+VV-1001,09-08-2025,CUST-136,33,Male,West,Apparel,Denim Jacket,1,69.99,0,PayPal,3
+VV-1016,09-08-2025,CUST-106,47,Male,West,Apparel,Denim Jacket,5,69.99,0.3,Credit Card,3
+VV-1060,09-08-2025,CUST-107,29,Non-binary,South,Home & Living,LED Desk Lamp,1,42.99,0,PayPal,4
+VV-1125,09-08-2025,CUST-140,33,Non-binary,North,Electronics,Portable SSD,2,109.99,0,UPI,4
+VV-1036,11-08-2025,CUST-117,46,Female,West,Apparel,Cargo Pants,4,49.99,0.2,UPI,3
+VV-1087,11-08-2025,CUST-147,42,Non-binary,East,Apparel,Knit Sweater,5,54.99,0.2,Credit Card,3
+VV-1167,11-08-2025,CUST-152,59,Male,South,Electronics,Mechanical Keyboard,2,89.99,0,Credit Card,4
+VV-1097,13-08-2025,CUST-102,65,Male,North,Apparel,Winter Puffer Jacket,2,119.99,0.1,Credit Card,4
+VV-1138,13-08-2025,CUST-122,50,Male,East,Home & Living,LED Desk Lamp,1,42.99,0,Credit Card,5
+VV-1192,13-08-2025,CUST-159,47,Female,East,Apparel,Winter Puffer Jacket,1,119.99,0.1,Crypto,3
+VV-1200,13-08-2025,CUST-137,53,Female,East,Home & Living,Insulated Water Bottle,1,27.99,0.1,PayPal,4
+VV-1085,15-08-2025,CUST-102,41,Female,North,Apparel,Oversized Hoodie,4,44.99,0.25,UPI,3
+VV-1102,15-08-2025,CUST-136,46,Male,South,Electronics,Bluetooth Speaker,1,59.99,0.1,PayPal,5
+VV-1114,15-08-2025,CUST-108,57,Male,North,Electronics,Smartwatch,4,129.99,0.2,Credit Card,3
+VV-1144,17-08-2025,CUST-144,42,Male,North,Home & Living,Weighted Blanket,5,89.99,0.2,PayPal,4
+VV-1032,18-08-2025,CUST-131,18,Male,North,Electronics,Gaming Mouse,1,49.99,0.1,UPI,5
+VV-1157,18-08-2025,CUST-152,50,Male,East,Electronics,Noise Cancelling Earbuds,2,99.99,0,Credit Card,5
+VV-1128,19-08-2025,CUST-131,41,Male,West,Electronics,Bluetooth Speaker,2,59.99,0,Credit Card,4
+VV-1079,20-08-2025,CUST-120,53,Male,East,Electronics,Noise Cancelling Earbuds,1,99.99,0,UPI,5
+VV-1072,21-08-2025,CUST-129,34,Male,East,Home & Living,Aroma Diffuser,3,36.99,0.2,UPI,3
+VV-1093,21-08-2025,CUST-106,19,Male,East,Apparel,Cargo Pants,2,49.99,0,UPI,4
+VV-1191,21-08-2025,CUST-145,61,Female,West,Electronics,Portable SSD,1,109.99,0,Credit Card,3
+VV-1050,22-08-2025,CUST-115,55,Male,East,Electronics,Gaming Mouse,1,49.99,0.1,Credit Card,4
+VV-1101,22-08-2025,CUST-104,54,Female,West,Electronics,Gaming Mouse,1,49.99,0,Credit Card,3
+VV-1174,22-08-2025,CUST-102,49,Male,East,Apparel,Oversized Hoodie,4,44.99,0,PayPal,4
+VV-1188,22-08-2025,CUST-153,53,Male,West,Apparel,Running Joggers,2,39.99,0,Credit Card,4
+VV-1106,23-08-2025,CUST-144,23,Male,South,Electronics,Smartwatch,4,129.99,0.25,Crypto,5
+VV-1176,23-08-2025,CUST-104,32,Male,West,Electronics,Wireless Headphones,1,79.99,0,Credit Card,3
+VV-1083,25-08-2025,CUST-109,53,Male,North,Home & Living,Weighted Blanket,4,89.99,0.2,PayPal,3
+VV-1156,25-08-2025,CUST-159,52,Female,West,Home & Living,LED Desk Lamp,1,42.99,0.1,Credit Card,4
+VV-1064,27-08-2025,CUST-130,27,Female,West,Apparel,Casual Sneakers,1,74.99,0.1,PayPal,5
+VV-1046,28-08-2025,CUST-142,44,Female,North,Home & Living,Aroma Diffuser,2,36.99,0.1,UPI,4
+VV-1120,28-08-2025,CUST-125,21,Female,South,Apparel,Winter Puffer Jacket,1,119.99,0,UPI,4
+VV-1134,28-08-2025,CUST-121,63,Male,West,Electronics,Portable SSD,1,109.99,0,Credit Card,4
+VV-1160,28-08-2025,CUST-135,42,Male,West,Apparel,Graphic T-Shirt,1,24.99,0,UPI,3
+VV-1110,29-08-2025,CUST-127,30,Male,West,Home & Living,Aroma Diffuser,4,36.99,0.2,UPI,2
+VV-1065,30-08-2025,CUST-101,56,Female,West,Home & Living,Smart Plug,3,19.99,0.25,PayPal,3
+VV-1076,30-08-2025,CUST-117,36,Male,South,Electronics,Gaming Mouse,5,49.99,0.25,PayPal,4
+VV-1169,30-08-2025,CUST-117,33,Female,West,Electronics,Mechanical Keyboard,3,89.99,0.2,PayPal,2
+VV-1199,30-08-2025,CUST-101,59,Female,North,Electronics,USB-C Hub,1,39.99,0,Credit Card,5
+VV-1077,31-08-2025,CUST-155,36,Female,South,Electronics,Bluetooth Speaker,5,59.99,0.3,Credit Card,3
+VV-1117,01-09-2025,CUST-141,42,Female,North,Electronics,Gaming Mouse,2,49.99,0,Credit Card,4
+VV-1133,10-09-2025,CUST-114,59,Non-binary,East,Home & Living,Insulated Water Bottle,1,27.99,0,Credit Card,4
+VV-1020,11-09-2025,CUST-160,34,Male,West,Electronics,Portable SSD,1,109.99,0.1,Credit Card,3
+VV-1127,18-09-2025,CUST-151,36,Female,West,Apparel,Graphic T-Shirt,1,24.99,0.1,UPI,3
+VV-1104,21-09-2025,CUST-150,29,Male,West,Home & Living,Ergonomic Cushion,3,29.99,0.25,Credit Card,3
+VV-1018,22-09-2025,CUST-104,63,Female,North,Electronics,Wireless Headphones,2,79.99,0.1,Credit Card,4
+VV-1180,24-09-2025,CUST-150,40,Male,South,Home & Living,Weighted Blanket,2,89.99,0.1,PayPal,3
+VV-1047,25-09-2025,CUST-130,48,Male,West,Apparel,Winter Puffer Jacket,2,119.99,0.25,UPI,3
+VV-1132,02-10-2025,CUST-141,19,Male,West,Electronics,USB-C Hub,4,39.99,0.2,Crypto,2
+VV-1129,03-10-2025,CUST-109,26,Non-binary,East,Apparel,Winter Puffer Jacket,4,119.99,0.25,Credit Card,3
+VV-1073,10-10-2025,CUST-137,58,Non-binary,West,Electronics,USB-C Hub,1,39.99,0,Credit Card,3
+VV-1142,16-10-2025,CUST-145,28,Female,West,Home & Living,Insulated Water Bottle,2,27.99,0.2,Credit Card,2
+VV-1145,16-10-2025,CUST-136,30,Non-binary,South,Electronics,USB-C Hub,4,39.99,0.2,UPI,3
+VV-1025,18-10-2025,CUST-157,27,Male,North,Electronics,Wireless Headphones,1,79.99,0,UPI,5
+VV-1041,19-10-2025,CUST-157,60,Male,East,Electronics,Noise Cancelling Earbuds,1,99.99,0,Credit Card,4
+VV-1026,24-10-2025,CUST-122,27,Female,South,Electronics,Smartwatch,2,129.99,0,UPI,5
+VV-1058,24-10-2025,CUST-132,54,Female,South,Electronics,USB-C Hub,4,39.99,0.3,PayPal,3
+VV-1075,26-10-2025,CUST-138,40,Male,North,Electronics,Smartwatch,4,129.99,0.25,PayPal,3
+VV-1109,26-10-2025,CUST-116,28,Female,North,Electronics,Mechanical Keyboard,2,89.99,0.1,Crypto,4
+VV-1019,02-11-2025,CUST-106,50,Male,North,Electronics,Mechanical Keyboard,4,89.99,0.3,Credit Card,3
+VV-1045,04-11-2025,CUST-105,62,Female,West,Electronics,Bluetooth Speaker,1,59.99,0.1,PayPal,2
+VV-1010,05-11-2025,CUST-124,41,Female,East,Home & Living,Smart Coffee Mug,1,34.99,0.1,PayPal,4
+VV-1054,05-11-2025,CUST-151,27,Female,West,Electronics,Mechanical Keyboard,4,89.99,0.2,Credit Card,3
+VV-1056,06-11-2025,CUST-130,18,Male,West,Apparel,Oversized Hoodie,4,44.99,0.2,UPI,3
+VV-1023,09-11-2025,CUST-154,36,Female,West,Electronics,USB-C Hub,3,39.99,0,PayPal,4
+VV-1037,09-11-2025,CUST-125,51,Female,South,Electronics,USB-C Hub,3,39.99,0,Credit Card,5
+VV-1052,10-11-2025,CUST-156,18,Female,North,Apparel,Oversized Hoodie,3,44.99,0.2,Crypto,2
+VV-1003,12-11-2025,CUST-156,40,Female,West,Apparel,Denim Jacket,1,69.99,0,Crypto,4
+VV-1159,18-11-2025,CUST-127,21,Female,North,Home & Living,Smart Coffee Mug,1,34.99,0,UPI,4
+VV-1196,19-11-2025,CUST-134,24,Female,East,Apparel,Running Joggers,3,39.99,0,UPI,4
+VV-1024,21-11-2025,CUST-110,34,Male,South,Apparel,Oversized Hoodie,4,44.99,0.3,Credit Card,4
+VV-1051,24-11-2025,CUST-154,52,Non-binary,West,Electronics,Noise Cancelling Earbuds,2,99.99,0.1,Credit Card,2
+VV-1074,27-11-2025,CUST-158,60,Male,North,Home & Living,Smart Coffee Mug,5,34.99,0.2,UPI,4
+VV-1112,27-11-2025,CUST-124,45,Male,West,Home & Living,Weighted Blanket,1,89.99,0,UPI,3
+VV-1082,28-11-2025,CUST-151,47,Male,North,Apparel,Oversized Hoodie,4,44.99,0,Credit Card,4
+VV-1116,01-12-2025,CUST-135,57,Male,East,Electronics,Bluetooth Speaker,4,59.99,0,Credit Card,4
+VV-1067,02-12-2025,CUST-109,38,Female,West,Home & Living,Insulated Water Bottle,4,27.99,0.2,Crypto,4
+VV-1105,03-12-2025,CUST-145,39,Male,West,Electronics,Smartwatch,1,129.99,0.1,Credit Card,2
+VV-1044,04-12-2025,CUST-146,28,Non-binary,North,Electronics,USB-C Hub,3,39.99,0.25,PayPal,3
+VV-1063,04-12-2025,CUST-108,19,Non-binary,East,Apparel,Graphic T-Shirt,1,24.99,0,UPI,4
+VV-1183,04-12-2025,CUST-136,19,Male,East,Apparel,Winter Puffer Jacket,1,119.99,0,Credit Card,4
+VV-1118,05-12-2025,CUST-109,20,Male,South,Apparel,Cargo Pants,1,49.99,0.1,PayPal,5
+VV-1131,05-12-2025,CUST-122,58,Male,East,Electronics,Smartwatch,1,129.99,0.1,Credit Card,3
+VV-1033,06-12-2025,CUST-110,60,Male,East,Electronics,Gaming Mouse,3,49.99,0.3,Credit Card,3
+VV-1122,06-12-2025,CUST-151,62,Male,South,Home & Living,Weighted Blanket,2,89.99,0.1,Credit Card,4
+VV-1014,07-12-2025,CUST-107,52,Male,West,Electronics,Noise Cancelling Earbuds,1,99.99,0.1,Credit Card,3
+VV-1038,07-12-2025,CUST-138,22,Male,South,Apparel,Oversized Hoodie,3,44.99,0,UPI,4
+VV-1002,08-12-2025,CUST-149,46,Female,West,Electronics,Smartwatch,1,129.99,0,UPI,4
+VV-1070,08-12-2025,CUST-103,65,Male,West,Home & Living,LED Desk Lamp,5,42.99,0.2,Credit Card,3
+VV-1135,08-12-2025,CUST-121,27,Male,South,Electronics,Portable SSD,3,109.99,0.25,Credit Card,3
+VV-1092,09-12-2025,CUST-143,19,Male,West,Apparel,Winter Puffer Jacket,1,119.99,0,UPI,3
+VV-1146,09-12-2025,CUST-119,36,Male,West,Electronics,Portable SSD,5,109.99,0.3,UPI,3
+VV-1022,10-12-2025,CUST-117,57,Non-binary,West,Electronics,USB-C Hub,3,39.99,0,UPI,4
+VV-1137,10-12-2025,CUST-113,52,Male,North,Electronics,USB-C Hub,3,39.99,0.2,PayPal,3
+VV-1171,10-12-2025,CUST-147,27,Male,South,Apparel,Running Joggers,4,39.99,0.2,PayPal,3
+VV-1099,11-12-2025,CUST-142,32,Male,North,Apparel,Denim Jacket,2,69.99,0,PayPal,3
+VV-1071,12-12-2025,CUST-159,45,Male,East,Apparel,Graphic T-Shirt,3,24.99,0,Credit Card,4
+VV-1121,12-12-2025,CUST-143,51,Male,North,Electronics,Portable SSD,4,109.99,0.25,Credit Card,3
+VV-1124,13-12-2025,CUST-134,54,Male,North,Electronics,Gaming Mouse,4,49.99,0.2,Credit Card,3
+VV-1015,14-12-2025,CUST-135,47,Female,North,Apparel,Denim Jacket,5,69.99,0.2,Credit Card,4
+VV-1086,14-12-2025,CUST-140,61,Male,West,Electronics,Bluetooth Speaker,1,59.99,0,Credit Card,4
+VV-1143,14-12-2025,CUST-121,27,Male,North,Apparel,Cargo Pants,2,49.99,0.2,UPI,4
+VV-1190,14-12-2025,CUST-111,52,Male,West,Home & Living,LED Desk Lamp,2,42.99,0,Credit Card,3
+VV-1158,15-12-2025,CUST-138,54,Male,East,Home & Living,Smart Coffee Mug,4,34.99,0.25,Credit Card,4
+VV-1136,16-12-2025,CUST-104,37,Female,North,Electronics,Noise Cancelling Earbuds,1,99.99,0,Crypto,5
+VV-1149,16-12-2025,CUST-160,59,Male,West,Electronics,Wireless Headphones,1,79.99,0,UPI,2
+VV-1181,16-12-2025,CUST-110,32,Male,West,Apparel,Knit Sweater,2,54.99,0.1,Credit Card,3
+VV-1008,20-12-2025,CUST-147,22,Male,East,Apparel,Casual Sneakers,2,74.99,0.25,PayPal,3
+VV-1034,20-12-2025,CUST-101,22,Male,West,Apparel,Knit Sweater,2,54.99,0,Crypto,4
+VV-1168,22-12-2025,CUST-148,53,Male,North,Apparel,Casual Sneakers,3,74.99,0,UPI,4
+VV-1155,25-12-2025,CUST-139,37,Female,East,Home & Living,Weighted Blanket,1,89.99,0,PayPal,5
+VV-1057,26-12-2025,CUST-111,58,Female,West,Electronics,Bluetooth Speaker,3,59.99,0.1,Credit Card,3
+VV-1179,27-12-2025,CUST-145,43,Female,South,Apparel,Knit Sweater,1,54.99,0.1,UPI,4
+VV-1066,28-12-2025,CUST-145,27,Male,East,Electronics,Portable SSD,1,109.99,0,PayPal,4
+VV-1103,29-12-2025,CUST-154,20,Male,West,Apparel,Winter Puffer Jacket,4,119.99,0.1,Crypto,2
+VV-1012,31-12-2025,CUST-158,31,Female,West,Apparel,Casual Sneakers,3,74.99,0.2,PayPal,3
+VV-1081,31-12-2025,CUST-123,35,Male,South,Apparel,Running Joggers,2,39.99,0,UPI,2
